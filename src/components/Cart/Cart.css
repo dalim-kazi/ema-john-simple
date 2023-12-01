@@ -1,0 +1,15 @@
+ .cart-container{
+    padding: 40px;
+ }
+ .cart-container p{
+   font-size: 17px;
+   margin-bottom: 10px;
+ }
+.clear-btn{
+      width: 100%;
+        /* margin-left: 20px; */
+        background-color: rgba(255, 48, 48, 1);
+        color: white;
+        border: 0;
+        border-radius: 10px;
+}
